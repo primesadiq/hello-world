@@ -1,2 +1,2 @@
 # hello-world
-This is my first day in GitHub trying to do something meaningful
+Hello this is my first day in GitHub, I am trying to do something meaningful.
